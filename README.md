@@ -22,11 +22,11 @@ This is **Apu Chandra Sutradhar**. Welcome to my GitHub profile!
 ### 💻 About Me
 * 🎓 I'm a **Final Year Computer Science and Engineering Student** at **IUBAT - International University of Business Agriculture and Technology**.
 * 🚀 Research & Thesis: Currently developing a machine learning framework for the **Detection of Coronary Artery Disease from CT Scan Images**.
-- 🧠 Core Focus: Passionate about **Data Structures, Algorithms, and Core Computer Science principles**.
+* 🧠 Core Focus: Passionate about **Data Structures, Algorithms, and Core Computer Science principles**.
 * 🚀 Focus & Interest: **Machine Learning, Data Science, and Software Engineering**
 * 🔬 Research Area: **Medical Image Processing, Machine Learning & Computer Vision**
 * 💻 Problem Solving: Active in **Problem Solving, Competitive Programming, and Object-Oriented Programming (OOP)**.
-- 🌐 Web Development: Experienced in building full-stack applications using **JavaScript, Node.js, C#, and ASP.NET MVC**.
+* 🌐 Web Development: Experienced in building full-stack applications using **JavaScript, Node.js, C#, and ASP.NET MVC**.
 * 💻 Expertise / Learning: **Python, C, C++, C#, ASP.NET, SQL, Data Structures & Algorithms, AI**
 * ⚡ Fun fact: I love nature excursions and exploring local landscapes!
 
@@ -90,10 +90,9 @@ This is **Apu Chandra Sutradhar**. Welcome to my GitHub profile!
 ### ⚙️ GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApuChandraSutradhar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApuChandraSutradhar&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ApuChandraSutradhar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ApuChandraSutradhar&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApuChandraSutradhar&theme=tokyonight" alt="GitHub Streak" />
 </p>
