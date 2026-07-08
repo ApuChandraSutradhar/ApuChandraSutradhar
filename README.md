@@ -75,12 +75,10 @@ This is **Apu Chandra Sutradhar**. Welcome to my GitHub profile!
 
 ### 🛠️ Tech Stack & Tools
 **Languages & Frameworks:**
-<p align="left">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-</p>
 
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -102,4 +100,35 @@ This is **Apu Chandra Sutradhar**. Welcome to my GitHub profile!
 ---
 <p align="center">
   👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=ApuChandraSutradhar&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+---
+
+### 📉 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=Dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+### 💡 Problem Solving Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/ApuChandraSutradhar" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-4457A0?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+<!-- 🎬 Animated Text Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Practicing+New+Problems+Daily...;More+Profiles+Updating+Soon...;Stay+Tuned!+🚀" alt="Typing SVG" />
 </p>
