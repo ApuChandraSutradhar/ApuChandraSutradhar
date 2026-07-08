@@ -20,19 +20,56 @@ This is **Apu Chandra Sutradhar**. Welcome to my GitHub profile!
 ---
 
 ### 💻 About Me
-* 🏢 Computer Science & Engineering Student at **IUBAT** (International University of Business Agriculture and Technology)
+* 🎓 I'm a **Final Year Computer Science and Engineering Student** at **IUBAT - International University of Business Agriculture and Technology**.
+* 🚀 Research & Thesis: Currently developing a machine learning framework for the **Detection of Coronary Artery Disease from CT Scan Images**.
+- 🧠 Core Focus: Passionate about **Data Structures, Algorithms, and Core Computer Science principles**.
 * 🚀 Focus & Interest: **Machine Learning, Data Science, and Software Engineering**
 * 🔬 Research Area: **Medical Image Processing, Machine Learning & Computer Vision**
+* 💻 Problem Solving: Active in **Problem Solving, Competitive Programming, and Object-Oriented Programming (OOP)**.
+- 🌐 Web Development: Experienced in building full-stack applications using **JavaScript, Node.js, C#, and ASP.NET MVC**.
 * 💻 Expertise / Learning: **Python, C, C++, C#, ASP.NET, SQL, Data Structures & Algorithms, AI**
 * ⚡ Fun fact: I love nature excursions and exploring local landscapes!
 
 ---
 
 ### 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/apu-chandra-sutradhar/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/apuchandrasutradhar.raj)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:apus081102@gmail.com)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/8801789174401)
+
+---
+### 💻 Skills & Technologies
+
+**Languages & Core Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+**Web Development & Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+**Data Science & Machine Learning:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+</p>
+
+**Tools & Developer Platforms:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
