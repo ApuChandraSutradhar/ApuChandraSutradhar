@@ -75,7 +75,7 @@ This is **Apu Chandra Sutradhar**. Welcome to my GitHub profile!
 
 ### 🛠️ Tech Stack & Tools
 **Languages & Frameworks:**
-<p align="middle">
+<p align="left">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
